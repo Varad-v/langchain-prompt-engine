@@ -64,3 +64,20 @@ User Input → Validation → Prompt Template → Output
 ---
 
 ## 📌 Example Output
+
+---
+
+## 📎 How to Run
+1. Open the notebook in Jupyter/Colab
+2. Run all cells
+3. Modify inputs to test different prompts
+
+---
+
+## 💡 Key Learning
+This project demonstrates how real-world GenAI systems use structured prompting instead of static inputs.
+
+---
+
+## 🔗 Author
+Varad Khatavkar
